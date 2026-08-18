@@ -31,3 +31,5 @@ a shared ffmpeg render service on Hetzner · 10 locales through next-intl.
 
 Most of what I star here is AI tooling — generation models, video pipelines, and the
 directories that track them.
+
+<!-- profile -->
